@@ -2,10 +2,11 @@
 Module 9 Challenge - SQL
 
 By A.Narag
+
 March 2, 2023
 
 This project has the following: 
-1. Created an Entity Relationship Diagram of the tables (see file EmployeeSQL_schema.sql)
+1. Created an Entity Relationship Diagram of the tables (see file ERD_EmployeeSQL.png)
 2. Created a database called EmployeeSQL (see file Create_Database.sql)  
 3. Created a SQL script to create 6 tables to hold the data from 6 CSV files provided (see file EmployeeSQL_schema.sql)
 4. Imported the CSV files into a SQL database
